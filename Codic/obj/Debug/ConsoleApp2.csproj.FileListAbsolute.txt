@@ -1,0 +1,10 @@
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\site\C#\GitProjects\fjbhefijhg\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
